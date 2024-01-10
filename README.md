@@ -2,6 +2,8 @@
 ## Description
 A autonomated mecnum-wheeled robot. 
 
+https://github.com/Utschie/FritzRobot_control/assets/33782458/aa32b7f8-7650-4b97-a6c7-4735f200c06d
+
 - Host computer: Nvidia Jetson nano
 
 - Slave computer: STM32F427IIH6
